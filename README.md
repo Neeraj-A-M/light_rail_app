@@ -3,12 +3,12 @@ Creating a light rail app to help users
 
 Project Doc: https://docs.google.com/document/d/1-p723EzfxIgJ79fUQxSUg-L34eS-7lCKxRKLG4YY-sw/edit?usp=sharing.  
 
-Assignments:
-*Interim Report
-**Problem Definition
-**Business Plan
-**Project Plan
-**Leverage Matrix
+Assignments:  
+* Interim Report
+  * Problem Definition
+  * Business Plan
+  * Project Plan
+  * Leverage Matrix
 
 LINKS:  
 AdminDoc: https://docs.google.com/document/d/15IWu6RB32g2g_Xr8J0iXWK3o1kVDMrNk5qVn6ayKJ6I/edit?usp=sharing.  
