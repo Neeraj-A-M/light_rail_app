@@ -16,4 +16,5 @@ Wk1 Fri - Pressure Cooker Workshop: https://docs.google.com/document/d/1-ZzWZNbz
 Wk2 Thur: https://docs.google.com/document/d/1oKP2UL1oORnbojzyqDHQoB9qLo4Xccdq-IRl5Sbg3EQ/edit?usp=sharing.  
 Wk2 Fri - User research Doc: https://docs.google.com/document/d/1v8njRubhH6UxWPC_qipyj6QGTaxDDC-fk8f2DDcV2w0/edit?usp=sharing.  
 Wk3 Thur - TBA: https://docs.google.com/document/d/1pnQJTAOeR4-IL_P6f8LsxZ_Y3-0GHV3taAGrEtDXncM/edit?usp=sharing.
+
 Wk3 Fri - Affinity Mapping/Working with data: https://docs.google.com/document/d/1hjEGTheqq4Uy2kM0EpMBFM-TmhSnMs8ECDmSfAXqhpM/edit?usp=sharing.
