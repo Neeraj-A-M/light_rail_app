@@ -12,6 +12,7 @@ Assignments:
   * Leverage Matrix
 
 TUTES:  
+Wk1 Thur - Empathy, Problem Definition, BMC: https://docs.google.com/document/d/185POW7n76IPtvhB0A7FwGkrXGdNF7JmMpiBEBGdinVA/edit?usp=sharing
 Wk1 Fri - Pressure Cooker Workshop: https://docs.google.com/document/d/1-ZzWZNbzGauzEe9ztiGDVVCVzWKnbpo8Rms0fTpgeEk/edit?usp=sharing.  
 Wk2 Thur: https://docs.google.com/document/d/1oKP2UL1oORnbojzyqDHQoB9qLo4Xccdq-IRl5Sbg3EQ/edit?usp=sharing.  
 Wk2 Fri - User research Doc: https://docs.google.com/document/d/1v8njRubhH6UxWPC_qipyj6QGTaxDDC-fk8f2DDcV2w0/edit?usp=sharing.  
