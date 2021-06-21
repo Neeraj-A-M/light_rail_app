@@ -11,6 +11,9 @@ Assignments:
   * Project Plan
   * Leverage Matrix
 
+OUR STUFF:
+Interim Overview: https://docs.google.com/document/d/1MAFF3yY4icYPxWSFjlcLwCvZ6yovV-ETJ-k74iEaUtE/edit?usp=sharing
+
 TUTES:  
 Wk1 Thur - Empathy, Problem Definition, BMC: https://docs.google.com/document/d/185POW7n76IPtvhB0A7FwGkrXGdNF7JmMpiBEBGdinVA/edit?usp=sharing  
 Wk1 Fri - Pressure Cooker Workshop: https://docs.google.com/document/d/1-ZzWZNbzGauzEe9ztiGDVVCVzWKnbpo8Rms0fTpgeEk/edit?usp=sharing.  
