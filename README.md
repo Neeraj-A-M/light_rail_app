@@ -21,4 +21,5 @@ Wk2 Thur: https://docs.google.com/document/d/1oKP2UL1oORnbojzyqDHQoB9qLo4Xccdq-I
 Wk2 Fri - User research Doc: https://docs.google.com/document/d/1v8njRubhH6UxWPC_qipyj6QGTaxDDC-fk8f2DDcV2w0/edit?usp=sharing.  
 Wk3 Thur - TBA: https://docs.google.com/document/d/1pnQJTAOeR4-IL_P6f8LsxZ_Y3-0GHV3taAGrEtDXncM/edit?usp=sharing.  
 Wk3 Fri - Affinity Mapping/Working with data: https://docs.google.com/document/d/1hjEGTheqq4Uy2kM0EpMBFM-TmhSnMs8ECDmSfAXqhpM/edit?usp=sharing.
+
 wk4 Thur - Problem Def: https://docs.google.com/document/d/1QbJno27BwSFNt4AuVi9PJAMb9spJbAx0ZvVgHf46swA/edit?usp=sharing
