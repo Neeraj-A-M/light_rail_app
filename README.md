@@ -11,16 +11,16 @@ Assignments:
   * Project Plan
   * Leverage Matrix
 
-OUR STUFF:
+OUR STUFF:  
 Interim Overview: https://docs.google.com/document/d/1MAFF3yY4icYPxWSFjlcLwCvZ6yovV-ETJ-k74iEaUtE/edit?usp=sharing
 
 TUTES:  
-Wk1 Thur - Empathy, Problem Definition, BMC: https://docs.google.com/document/d/185POW7n76IPtvhB0A7FwGkrXGdNF7JmMpiBEBGdinVA/edit?usp=sharing  
-Wk1 Fri - Pressure Cooker Workshop: https://docs.google.com/document/d/1-ZzWZNbzGauzEe9ztiGDVVCVzWKnbpo8Rms0fTpgeEk/edit?usp=sharing.  
-Wk2 Thur: https://docs.google.com/document/d/1oKP2UL1oORnbojzyqDHQoB9qLo4Xccdq-IRl5Sbg3EQ/edit?usp=sharing.  
-Wk2 Fri - User research Doc: https://docs.google.com/document/d/1v8njRubhH6UxWPC_qipyj6QGTaxDDC-fk8f2DDcV2w0/edit?usp=sharing.  
-Wk3 Thur - TBA: https://docs.google.com/document/d/1pnQJTAOeR4-IL_P6f8LsxZ_Y3-0GHV3taAGrEtDXncM/edit?usp=sharing.  
-Wk3 Fri - Affinity Mapping/Working with data: https://docs.google.com/document/d/1hjEGTheqq4Uy2kM0EpMBFM-TmhSnMs8ECDmSfAXqhpM/edit?usp=sharing.  
-wk4 Thur - Problem Def: https://docs.google.com/document/d/1QbJno27BwSFNt4AuVi9PJAMb9spJbAx0ZvVgHf46swA/edit?usp=sharing
-wk4 Fri - Ideation: https://docs.google.com/document/d/1CBmZW3EHiJRJzTqbINA0izLIRBEVOGoTFXmp_MstaGI/edit?usp=sharing
-
+Wk1 Thur - Empathy, Problem Definition, BMC: https://docs.google.com/document/d/185POW7n76IPtvhB0A7FwGkrXGdNF7JmMpiBEBGdinVA/edit?usp=sharing    
+Wk1 Fri - Pressure Cooker Workshop: https://docs.google.com/document/d/1-ZzWZNbzGauzEe9ztiGDVVCVzWKnbpo8Rms0fTpgeEk/edit?usp=sharing.    
+Wk2 Thur: https://docs.google.com/document/d/1oKP2UL1oORnbojzyqDHQoB9qLo4Xccdq-IRl5Sbg3EQ/edit?usp=sharing.    
+Wk2 Fri - User research Doc: https://docs.google.com/document/d/1v8njRubhH6UxWPC_qipyj6QGTaxDDC-fk8f2DDcV2w0/edit?usp=sharing.    
+Wk3 Thur - TBA: https://docs.google.com/document/d/1pnQJTAOeR4-IL_P6f8LsxZ_Y3-0GHV3taAGrEtDXncM/edit?usp=sharing.    
+Wk3 Fri - Affinity Mapping/Working with data: https://docs.google.com/document/d/1hjEGTheqq4Uy2kM0EpMBFM-TmhSnMs8ECDmSfAXqhpM/edit?usp=sharing.    
+wk4 Thur - Problem Def: https://docs.google.com/document/d/1QbJno27BwSFNt4AuVi9PJAMb9spJbAx0ZvVgHf46swA/edit?usp=sharing    
+wk4 Fri - Ideation: https://docs.google.com/document/d/1CBmZW3EHiJRJzTqbINA0izLIRBEVOGoTFXmp_MstaGI/edit?usp=sharing    
+ 
