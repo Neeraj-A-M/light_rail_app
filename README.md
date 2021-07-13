@@ -3,6 +3,7 @@ Creating a light rail app to help users
 
 AdminDoc: https://docs.google.com/document/d/15IWu6RB32g2g_Xr8J0iXWK3o1kVDMrNk5qVn6ayKJ6I/edit?usp=sharing.  
 Project Doc: https://docs.google.com/document/d/1-p723EzfxIgJ79fUQxSUg-L34eS-7lCKxRKLG4YY-sw/edit?usp=sharing. 
+Meeting Minutes: https://docs.google.com/document/d/1zH-StPQTt6p-kAiZ4cH31P1NsG1nxu-NAA0v1uN_u5E/edit?usp=sharing.
 
 Problem Statement Doc: https://docs.google.com/document/d/17hUXME-g17AYM7F5vZun4m_arV39jN-y2ba1qKjmEo4/edit?usp=sharing.
 
@@ -26,5 +27,7 @@ Wk3 Fri - Affinity Mapping/Working with data: https://docs.google.com/document/d
 wk4 Thur - Problem Def: https://docs.google.com/document/d/1QbJno27BwSFNt4AuVi9PJAMb9spJbAx0ZvVgHf46swA/edit?usp=sharing    
 wk4 Fri - Ideation: https://docs.google.com/document/d/1CBmZW3EHiJRJzTqbINA0izLIRBEVOGoTFXmp_MstaGI/edit?usp=sharing   
 wk5 Thu - Requirements analysis: https://docs.google.com/document/d/1NfGYHcHEv1AIp3vTp3qiVESGrP4rZeX0P6Y_nNirJ7U/edit?usp=sharing.   
+wk7 Tue - Solution Doc: https://docs.google.com/document/d/1RM9Udmv7V6gpLMba7HuzwC2sEr-cYGQnK2b1nCnW9iY/edit?usp=sharing.    
+
 
  
