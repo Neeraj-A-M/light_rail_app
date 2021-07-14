@@ -12,11 +12,11 @@ Assignments:
   * Project Plan
   * Leverage Matrix
 
-###Interim Assigment Links:
+### Interim Assigment Links:
 Interim Overview: https://docs.google.com/document/d/1MAFF3yY4icYPxWSFjlcLwCvZ6yovV-ETJ-k74iEaUtE/edit?usp=sharing
 Problem Statement Doc: https://docs.google.com/document/d/17hUXME-g17AYM7F5vZun4m_arV39jN-y2ba1qKjmEo4/edit?usp=sharing.
 
-###Preliminary Report Links
+### Preliminary Report Links
 wk7 Tue - Solution Doc: https://docs.google.com/document/d/1RM9Udmv7V6gpLMba7HuzwC2sEr-cYGQnK2b1nCnW9iY/edit?usp=sharing.    
 
 
