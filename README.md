@@ -2,8 +2,8 @@
 Creating a light rail app to help users
 
 AdminDoc: https://docs.google.com/document/d/15IWu6RB32g2g_Xr8J0iXWK3o1kVDMrNk5qVn6ayKJ6I/edit?usp=sharing.  
-Project Doc: https://docs.google.com/document/d/1-p723EzfxIgJ79fUQxSUg-L34eS-7lCKxRKLG4YY-sw/edit?usp=sharing. 
-Meeting Minutes: https://docs.google.com/document/d/1zH-StPQTt6p-kAiZ4cH31P1NsG1nxu-NAA0v1uN_u5E/edit?usp=sharing.
+Project Doc: https://docs.google.com/document/d/1-p723EzfxIgJ79fUQxSUg-L34eS-7lCKxRKLG4YY-sw/edit?usp=sharing.  
+Meeting Minutes: https://docs.google.com/document/d/1zH-StPQTt6p-kAiZ4cH31P1NsG1nxu-NAA0v1uN_u5E/edit?usp=sharing.  
 
 Assignments:  
   * Interim Report
