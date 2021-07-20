@@ -17,7 +17,7 @@ Interim Overview: https://docs.google.com/document/d/1MAFF3yY4icYPxWSFjlcLwCvZ6y
 Problem Statement Doc: https://docs.google.com/document/d/17hUXME-g17AYM7F5vZun4m_arV39jN-y2ba1qKjmEo4/edit?usp=sharing.
 
 ### Preliminary Report Links
-wk7 Tue - Solution Doc: https://docs.google.com/document/d/1RM9Udmv7V6gpLMba7HuzwC2sEr-cYGQnK2b1nCnW9iY/edit?usp=sharing.
+wk7 Tue - Solution Doc: https://docs.google.com/document/d/1RM9Udmv7V6gpLMba7HuzwC2sEr-cYGQnK2b1nCnW9iY/edit?usp=sharing.  
 Features and User Stories Doc: https://docs.google.com/document/d/1MO9Rh_kGEA1BWzdqM6mjGIYwYFAyVLQil8DQnZgBsh8/edit?usp=sharing.  
 
 
