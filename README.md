@@ -34,7 +34,7 @@ wk4 Thur - Problem Def: https://docs.google.com/document/d/1QbJno27BwSFNt4AuVi9P
 wk4 Fri - Ideation: https://docs.google.com/document/d/1CBmZW3EHiJRJzTqbINA0izLIRBEVOGoTFXmp_MstaGI/edit?usp=sharing   
 wk5 Thu - Requirements analysis: https://docs.google.com/document/d/1NfGYHcHEv1AIp3vTp3qiVESGrP4rZeX0P6Y_nNirJ7U/edit?usp=sharing.   
 
-wk8 Fri - Presentation Workshop: https://docs.google.com/document/d/1dAUlmudUUDtjlR-JdXbx7BExKX6IVFNLVaMubulZZO8/edit?usp=sharing.
+wk8 Fri - Presentation Workshop: https://docs.google.com/document/d/1dAUlmudUUDtjlR-JdXbx7BExKX6IVFNLVaMubulZZO8/edit?usp=sharing.  
 wk9 Thu - Prototype and Questions: https://docs.google.com/document/d/1gwU5rlTghITGsb7VLOFr8SX8UjyHgoOhe3wDUUA4sDQ/edit?usp=sharing.  
 
 
