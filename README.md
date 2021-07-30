@@ -20,6 +20,9 @@ Problem Statement Doc: https://docs.google.com/document/d/17hUXME-g17AYM7F5vZun4
 wk7 Tue - Solution Doc: https://docs.google.com/document/d/1RM9Udmv7V6gpLMba7HuzwC2sEr-cYGQnK2b1nCnW9iY/edit?usp=sharing.  
 Features and User Stories Doc: https://docs.google.com/document/d/1MO9Rh_kGEA1BWzdqM6mjGIYwYFAyVLQil8DQnZgBsh8/edit?usp=sharing.  
 
+### Final Report
+Meeting Doc 1 - Lo-fi: https://docs.google.com/document/d/1SBxlzqFcW9ZAbHQC3qJc7Y3x1nfhLusEhEBes50SJsc/edit.  
+
 ### Questionairs
 Forum - https://docs.google.com/forms/d/1zbbAGCoDYrYwZbIAaFr9ZCcNvQ4D5xzSIM3aNmMkSrc/edit?usp=sharing.  
 
