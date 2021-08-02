@@ -22,9 +22,11 @@ Features and User Stories Doc: https://docs.google.com/document/d/1MO9Rh_kGEA1BW
 
 ### Final Report
 Meeting Doc 1 - Lo-fi: https://docs.google.com/document/d/1SBxlzqFcW9ZAbHQC3qJc7Y3x1nfhLusEhEBes50SJsc/edit.  
-
+Speech Doc: https://docs.google.com/document/d/1WTW_Jlb3wf7GLKui6l-yFbrrD2HJ9rIpsa2zvwXrVn0/edit?usp=sharing.    
+  
+  
 ### Questionairs
-Forum - https://docs.google.com/forms/d/1zbbAGCoDYrYwZbIAaFr9ZCcNvQ4D5xzSIM3aNmMkSrc/edit?usp=sharing.  
+Forum - https://docs.google.com/forms/d/1zbbAGCoDYrYwZbIAaFr9ZCcNvQ4D5xzSIM3aNmMkSrc/edit?usp=sharing.    
 
 
 
