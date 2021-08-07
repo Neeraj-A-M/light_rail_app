@@ -22,7 +22,8 @@ Features and User Stories Doc: https://docs.google.com/document/d/1MO9Rh_kGEA1BW
 
 ### Final Report
 Meeting Doc 1 - Lo-fi: https://docs.google.com/document/d/1SBxlzqFcW9ZAbHQC3qJc7Y3x1nfhLusEhEBes50SJsc/edit.  
-Speech Doc: https://docs.google.com/document/d/1WTW_Jlb3wf7GLKui6l-yFbrrD2HJ9rIpsa2zvwXrVn0/edit?usp=sharing.    
+Speech Doc: https://docs.google.com/document/d/1WTW_Jlb3wf7GLKui6l-yFbrrD2HJ9rIpsa2zvwXrVn0/edit?usp=sharing.   
+Final Speech: https://docs.google.com/document/d/1xhsAv21xPpLniC18gduQV6FaXsBpPE6qPu5k_xqFR9w/edit?usp=sharing.    
 Canva Prezz: https://www.canva.com/design/DAEmIGoL0Yw/share/preview?token=jRhH3D61m7g-FtoKbyo72w&role=EDITOR&utm_content=DAEmIGoL0Yw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton.   
 
   
